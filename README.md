@@ -1,3 +1,3 @@
-# WXT + React
+# SafeClick
 
-This template should help get you started developing with React in WXT.
+Chrome web extension for HackYeah 2024.
